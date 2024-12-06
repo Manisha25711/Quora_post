@@ -1,2 +1,2 @@
-# Quora_post
- Quora post is a simple  website in which we add post,edit and delete our thoughts,question....
+# Quora_Post
+Quora_Post: a dynamic platform where thoughts come to life! share,edit and delete your ideas effortlessly,all in one place.
